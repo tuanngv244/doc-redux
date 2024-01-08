@@ -23,7 +23,7 @@ Một ứng dụng Redux bao gồm các thành phần chính sau:
 
 # Cách thức hoạt động của Redux
 
-![!](./img/redux-flow.gif)
+![!](https://github.com/lechauhuuthien/reactjs-docs/blob/master/img/redux-flow.gif?raw=true)
 
 Flow hoạt động của Redux bao gồm các bước sau:
 
